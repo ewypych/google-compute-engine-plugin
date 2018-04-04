@@ -1,0 +1,13 @@
+# Whitelist for error messaging
+com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
+com.google.api.client.googleapis.services.AbstractGoogleClientRequest
+com.google.api.client.googleapis.services.GoogleClientRequestInitializer
+com.google.api.services.compute.model.AcceleratorType
+com.google.api.services.compute.Compute
+com.google.api.services.compute.model.Instance
+com.google.api.client.json.jackson.JacksonFactory
+com.google.api.client.util.PemReader
+com.google.api.services.compute.model.Network
+com.google.api.services.compute.model.Subnetwork
+com.google.api.services.compute.model.Image
+com.google.api.services.compute.model.Operation
